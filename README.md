@@ -65,4 +65,17 @@ All credits for extended pinout explanation go to macsbug, see more on: https://
 <img src="/../main/readme_img/esp32_2432s028_i2c.jpg" width="40%" alt= "Schematic" height="40%">
 
 Flashing instructions: keep the boot button pressed when you plug in the USB cable/flasher, this will allow to flash the firmware.
+
+
+
+## Next steps
+1) Improve format page
+2) Add Air monitor quality page
+3) Add Security page alarm
+4) LVGL Library implemetation start on : https://github.com/1achy/ha_deck_-ILI9341_2.8
+
+
+
+
+
 Greetings from Achy
