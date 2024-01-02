@@ -66,7 +66,9 @@ All credits for extended pinout explanation go to macsbug, see more on: https://
 
 Flashing instructions: keep the boot button pressed when you plug in the USB cable/flasher, this will allow to flash the firmware.
 
-
+## Enclosure options
+- https://www.thingiverse.com/thing:5680106
+- https://www.thingiverse.com/thing:5905855
 
 ## Next steps
 1) Improve format page
