@@ -5,10 +5,13 @@ This start to project of https://github.com/niahane/meteo-thermostat
 
 This is the program I wrote with esphome for my esp32-2432s028r very cheap board with esp32 + lcd ILI9341 2.8"
 
-
+Weather : 3 button on all page -/+ scroll page and central for active heater
 ![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/example.jpg)
+Wind
 ![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/vento.jpg)
+This monitoring tempetarure int and externale and more 2 button +/- fore heater regulation
 ![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/grafico.jpg)
+Status
 ![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/status.jpg)
 
 
