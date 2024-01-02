@@ -35,7 +35,7 @@ Feature plus:
 ### Wiring esp32-2432s028 + BME280 sensor
 All credits for extended pinout explanation go to macsbug, see more on: https://macsbug.wordpress.com/2022/08/17/esp32-2432s028/
 
-<img src="/../main/Pictures/esp32_2432s028_i2c.jpg" width="40%" alt= "Schematic" height="40%">
+<img src="/../main/readme_img/esp32_2432s028_i2c.jpg" width="40%" alt= "Schematic" height="40%">
 
 Flashing instructions: keep the boot button pressed when you plug in the USB cable/flasher, this will allow to flash the firmware.
 Greetings from Achy
