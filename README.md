@@ -3,7 +3,34 @@
 
 This start to project of https://github.com/niahane/meteo-thermostat
 
+
+
 This is the program I wrote with esphome for my esp32-2432s028r very cheap board with esp32 + lcd ILI9341 2.8"
+
+## Hardware
+### Specifics
+2.8″ 240×320 SPI ILI9341V with Touch Panel
+
+### Configuration:
+1. ESP32 with TELEC(211-161007): Internal 4MB (32Bit) Flash
+2. External 4MB (32Mbit) Flash memory, winbond 25Q32JVSlQ rev 1.  2022.09.13: U3 4MB, U4 4MB. It is now Parallel SPI.
+3. LCD ( ILI9341V  ) with Touch ( U3 :  XPT2046 resistive film method)
+4. Expanded IO x 2
+  - P3 ( GND, GPIO_35, GPIO_22, GPIO_21)
+  - CN1 ( GND, NC, GPIO_27, 3V3)
+5. SD SLOT ( Micro SD )
+6. RGB LED ( MHP5050RGBDT  )
+  - BLUE : GPIO_16, RED : GPIO_4, GREEN : GPIO_17
+7. CDS ( GT36516  ) : GPIO_34
+8. EXT Power Conn : P1 ( VIN, TX, RX, GND )
+9. Audio OUT( Audio amp SC8002B ) : P4 SPEAK(2=VO2,1=VO1)
+10. P1: Power Supply Base Conector
+11. Included: Touch pen, 4pin External connector cable, USB Cable.
+
+
+
+
+
 
 Weather : 3 button on all page -/+ scroll page and central for active heater
 ![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/example.jpg)
