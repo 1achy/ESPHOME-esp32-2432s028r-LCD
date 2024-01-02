@@ -10,7 +10,7 @@ Feature plus:
 
   ![im
 
-![aztouch_wall](https://github.com/niahane/meteo-thermostat/blob/7a2923ba1b6a4c6382c3172988ddbd63d4416278/readme_img/aztouch%20wall.jpg)
+![aztouch_wall](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/example.jpg)
 https://www.amazon.it/AZDelivery-AZ-Touch-custodie-pollici-ESP8266/dp/B081FC31Q5?th=1
 
 the initial idea was to create a thermostat with weather forecast, not finding any project that I liked I decided to write it myself. Some existing projects involved the creation of multiple entities in the home assistant for example "day 1" forecasts, "day 2" forecasts etc ... creating a big mess in the home assistant. Then normally home assistant records by default each value of each sensor in its database, this thing is not very emmc/sd friendly, i know that exclusions can be made but I didn't feel like it.
