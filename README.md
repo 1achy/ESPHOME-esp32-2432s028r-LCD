@@ -8,16 +8,14 @@ Feature plus:
 - touch bottom dedicated some page
 - 4 page at moment wather - wind - homeassisant - status
 
- 
-
-![aztouch_wall](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/example.jpg)
-
-![bme280](https://github.com/niahane/meteo-thermostat/blob/7a2923ba1b6a4c6382c3172988ddbd63d4416278/readme_img/bme280.jpg)
 
 
-![rclw](https://github.com/niahane/meteo-thermostat/blob/7a2923ba1b6a4c6382c3172988ddbd63d4416278/readme_img/rclw-0516.jpg)
+![bme280](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/1703943240-Screenshot-2023-12-30-at-14-32-26-733E-Esp-wroom-32-Esp32-For-Arduino-Lvgl-Wifi-28-28inch-Lcd-Tft-Module-With-Touch-Wroom-240-320-.png)
 
-![aztouch1](https://github.com/niahane/meteo-thermostat/blob/474219cd6f2cac05c4dfb25d911a39c119f23d16/readme_img/aztouch1.jpg)
+
+![rclw](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/1703943134-Screenshot-2023-12-30-at-14-31-18-733E-Esp-wroom-32-Esp32-For-Arduino-Lvgl-Wifi-28-28inch-Lcd-Tft-Module-With-Touch-Wroom-240-.png)
+
+![aztouch1](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/1703942900-de997d983c0182a35cf30cceca23220db6154e67.jpeg)
 
 
 
