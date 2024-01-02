@@ -6,7 +6,10 @@ This start to project of https://github.com/niahane/meteo-thermostat
 This is the program I wrote with esphome for my esp32-2432s028r very cheap board with esp32 + lcd ILI9341 2.8"
 
 
-![bme280](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/example.jpg)
+![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/example.jpg)
+![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/vento.jpg)
+![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/grafico.jpg)
+![foto](https://github.com/1achy/ESPHOME-esp32-2432s028r-LCD/blob/main/readme_img/status.jpg)
 
 
 Feature plus:
