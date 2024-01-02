@@ -1,4 +1,7 @@
-# ESPHOME esp32-2432s028r start to project of https://github.com/niahane/meteo-thermostat
+# ESPHOME esp32-2432s028r 
+
+
+This start to project of https://github.com/niahane/meteo-thermostat
 
 This is the program I wrote with esphome for my esp32-2432s028r very cheap board with esp32 + lcd ILI9341 2.8"
 
