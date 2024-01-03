@@ -74,7 +74,9 @@ Flashing instructions: keep the boot button pressed when you plug in the USB cab
 1) Improve format page
 2) Add Air monitor quality page
 3) Add Security page alarm
-4) LVGL Library implemetation start on : https://github.com/1achy/ha_deck_-ILI9341_2.8
+4) LVGL Library implemetation start on :
+   -  https://github.com/1achy/ha_deck_-ILI9341_2.8
+   -  https://github.com/rzeldent/esp32-smartdisplay
 
 
 
